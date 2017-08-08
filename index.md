@@ -1,5 +1,6 @@
 ---
 layout: default
+title: test this
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
