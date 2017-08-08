@@ -3,6 +3,8 @@ layout: default
 title: Personal Website
 ---
 
+Lot's more text
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).
