@@ -1,6 +1,6 @@
 ---
-layout: home
-title: test this
+layout: default
+title: Personal Website
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
