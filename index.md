@@ -1,34 +1,18 @@
 ---
 layout: default
-title: Personal Website
+title: Becoming a Social Entrepreneur
 ---
 
-Lot's more text
+When I started my Postdoc after a rigorous training in Physics, I never thought that I will end up becoming a social entrepreneur working across the African continent. During my PhD in Physics, I joined the Eco-House Initiative, a student society that worked in partnership with Techo Para Meu Pais, a pan-South American student organisation, which builds wooden homes for the most vulnerable people living in slums. I joined the programme and was recruited to travel to Brazil to the favelas of Sao Paulo. Here I saw something life changing, two guys in the midst of dirt and trash taking apart a VW bettle and connecting the radio to the main power cables running above to have music whilst their work. This frugal ingenuity made me realise amongst the many experiences I gathered during this trip, that the informal economy is composed of people with remarkable talents yet are marginalised by society with no opportunities for them and their families to live a better life. After my PhD, I accepted a Post-Doc position in Architecture to investigate how we could change this dynamic in a sustainable way, through research, innovation, and human will.
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+> _the informal economy is composed of people with remarkable talents yet are marginalised by society_
+ 
+At the Centre for Natural Material Innovation in Cambridge, we collaborated with UN Habitat in designing [a community centre in Kenya’s oldest slum, Mathare](https://www.cam.ac.uk/research/features/building-from-the-ground-up-participatory-design-in-kenyas-oldest-slum), with the aim to recruit the labour capacity directly from the community. For the construction of the new centre, we were faced with the challenge of not knowing how to find skilled workers from within the community. Where in Europe we would consult a website or store, Kenyan people would call a friend or family member to find a reliable professional. Pro's do not have a website or store, instead they come with recommendations from one's social circles, forming that basic trust needed to do business. I envisioned a book-keeper approach would prove invaluable: noting down skills and needs and where  matches emerge, connect the two. Unlike surveys, the shared information would enable a direct economic use and proliferate knowledge about exchanges from the bottom-up. With time this information would provide a deep insight in the currently non-transparent informal sector, and enable outside organisations such as the UN to source the right talent for beneficial projects. This marked the beginning of [Netwookie](https://www.netwookie.org).
 
-[Link to another page](another-page).
+> _Pro's do not have a website or store, instead they come with recommendations from one's social circles, forming that basic trust needed to do business_
 
-There should be whitespace between paragraphs.
+Thanks to the rich support eco-system found in Cambridge, I was able to take my research and know-how to the next level. Having lived and worked in Kenya, I knew that for instance motorbike taxis spent majority of their time waiting for customers. This is because I would only take one, if a friend of mine would recommend me one that is safe and reliable. My biggest driver is that despite the obvious problem, known to African and anyone having been in contact with the informal sector, I do not see anyone taking sufficient action to remediate the situation. Therefore, I decided to follow a principle known in Architecture: deliver the best designs to the people who need it the most. If I believe that there is a valuable solution that no one else is offering, then I want to be that change to help the 680 million Africans struggling evey day to make a living.
+ 
+> _Today I cannot imagine myself in any other role._
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# [](#header-1)Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## [](#header-2)Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### [](#header-3)Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+For live updates, visit [my twitter feed](https://twitter.com/mcdbock)
